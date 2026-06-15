@@ -55,4 +55,4 @@ Password: admin
 Jasmina Thevasuthan
 
 - GitHub: https://github.com/Jasmina-Thevasuthan
-- LinkedIn: https://linkedin.com/in/Jasmina Thevasuthan
+- LinkedIn: https://linkedin.com/in/jasminathevasuthan
